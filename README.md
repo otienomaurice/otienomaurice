@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maurice Otieno Baraza
-- 👀 I’m interested in Electrical, computer(hardware), mechanical and aeronautical engineering, and physics.
-- 🌱 I’m currently learning Electrical and mechanical engineering
+- 👀 I’m interested in Electrical, computer(hardware),aeronautical engineering, and physics.
+- 🌱 I’m currently learning Electrical, Computer and mechanical engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me otienom@lafayette.edu
 
