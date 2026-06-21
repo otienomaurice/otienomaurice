@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electrical, computer(hardware),aeronautical engineering, and physics.
 - 🌱 I’m currently learning Electrical, Computer and mechanical engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me otienomaurice12340@gmail.com
+- 📫 You can reach me at  otienomaurice12340@gmail.com and can view my work at my portfolio at https://mauriceotieno.com
 
 <!---
 otienomaurice/otienomaurice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
